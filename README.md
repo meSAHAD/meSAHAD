@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meSAHAD
-- 🌱 I’m currently learning Java & MySQL
+- 🌱 I’m currently Machine Learning
 - 📫 How to reach me? -> sahad.cse8.bu@gmail.com
 
 <!---
