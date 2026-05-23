@@ -2,9 +2,9 @@
 
 # Hey there, I'm Sahad
 
-### Machine Learning Enthusiast • CSE Student • Future AI Engineer
+### Machine Learning  •  Future AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Healthcare+AI+Researcher;MERN+Stack+Learner;Linux+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Healthcare+AI+Researcher;Linux+Enthusiast;Building+Real+World+Projects" />
 
 </div>
 
@@ -16,11 +16,10 @@
 - Currently exploring:
   - Machine Learning
   - Deep Learning
-  - MERN Stack
   - Healthcare AI
   - Research & Development
-- Building real-world AI-powered applications
 - Linux user and open-source enthusiast
+- Building real-world AI-powered applications
 - Focused on creating impactful and scalable solutions
 
 ---
@@ -29,7 +28,6 @@
 
 - Diabetes Prediction System using Machine Learning
 - Brain Tumor Classification Research
-- Full Stack Web Development
 - Deployment & Production-Level Projects
 - AI-based Healthcare Solutions
 
@@ -40,7 +38,7 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
 </p>
 
 ## Frameworks & Libraries
